@@ -74,7 +74,7 @@ publishing other people's pager messages may be restricted by law in your countr
 
 ## License and credits
 
-[MIT](LICENSE) © 2026 SP9TKN.
+[GPL-3.0](LICENSE) © 2026 SP9TKN.
 Libraries: [egui / eframe](https://github.com/emilk/egui), [cpal](https://github.com/RustAudio/cpal),
 [symphonia](https://github.com/pdeljanov/Symphonia), [hound](https://github.com/ruuda/hound),
 [serialport](https://github.com/serialport/serialport-rs), [rfd](https://github.com/PolyMeilex/rfd).

@@ -174,3 +174,9 @@ Toolchain `x86_64-pc-windows-gnu`, w `PATH` musi być `C:\msys64\mingw64\bin` (d
   szumie, szum po nadaniu, zgubione próbki.
 - `POGSAG_ZRZUT=plik.wav`: zapisuje wszystko z wejścia odbioru (diagnostyka).
 - Ikona: `assets/ikona.py` (PIL), pager w stylu ikony dekodera.
+
+## Licencja
+
+[GPL-3.0](LICENSE) © 2026 SP9TKN.
+
+**Narzędzia:** program powstał z pomocą [Claude Code](https://claude.com/claude-code) (Anthropic) — asystent AI do pisania kodu, testów i dokumentacji.
